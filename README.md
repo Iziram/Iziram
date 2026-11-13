@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iziram&label=Profile%20views&color=0e75b6&style=flat" alt="iziram" /> </p>
 
-- 🔭 En ce moment je travaille sur [Gouel](https://github.com/Gouel/GouelMonoRepo)
+- 🔭 En ce moment je travaille sur Icus, un logiciel d'orchestration d'agents IA sandboxés
 
 - Comment me contacter : **github@iziram.fr**
 
